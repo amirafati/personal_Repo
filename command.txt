@@ -1,2 +1,5 @@
 ls
 ls -la 
+baraie azafe kardan be git hub baiad farmane 
+git add . 
+ro ejra konim 
