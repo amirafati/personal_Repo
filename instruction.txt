@@ -1,0 +1,8 @@
+cd ~ ( go to home directory 
+named github_repos)
+Mkdir github_repos (create  new folder 
+ls -la (making sure .git folder exist)
+git status (find the status of our repo)
+
+
+NANO ESMFILE.EXTENTION ( TO CREAT /EDIT A FILE OF ANY TYPE AND ADD/EDIT CONNECT) 
